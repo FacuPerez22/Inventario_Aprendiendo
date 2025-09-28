@@ -1,0 +1,12 @@
+# Ignorar carpetas de compilación
+[Bb]in/
+[Oo]bj/
+
+# Ignorar archivos de usuario de Visual Studio
+*.user
+*.suo
+*.pdb
+*.dbmdl
+
+# Ignorar carpetas de paquetes (NuGet)
+packages/
