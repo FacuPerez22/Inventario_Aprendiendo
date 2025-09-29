@@ -1,4 +1,4 @@
-from conemysql import mostrar_inventario_db
+from inventario_estru.conemysql import mostrar_inventario_db
 
 def mostrar_inventario():
     productos = mostrar_inventario_db()

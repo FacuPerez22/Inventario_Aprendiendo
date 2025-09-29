@@ -1,4 +1,4 @@
-from conemysql import agragar_producto_bd
+from inventario_estru.conemysql import agragar_producto_bd
 
 def agregar_producto():
     nombre = input("Ingrese el nombre del producto: ")

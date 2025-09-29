@@ -1,4 +1,4 @@
-from conemysql import eliminar_producto_bd
+from inventario_estru.conemysql import eliminar_producto_bd
 
 def eliminar_producto():
     nombre_a_eliminar = input("Nombre del poroducto a eliminar: ").lower()

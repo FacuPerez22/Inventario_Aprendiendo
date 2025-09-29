@@ -1,7 +1,7 @@
-import agregar_producto
-import mostrar_invetario
-import buscar_producto
-import eliminar_producto
+import inventario_estru.agregar_producto as agregar_producto
+import inventario_estru.mostrar_invetario as mostrar_invetario
+import inventario_estru.buscar_producto as buscar_producto
+import inventario_estru.eliminar_producto as eliminar_producto
 print("************** Gestion de Inventario***********\n")
 def main():
     

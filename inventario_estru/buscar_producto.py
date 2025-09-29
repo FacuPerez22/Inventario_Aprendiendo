@@ -1,4 +1,4 @@
-from conemysql import buscar_producto_bd
+from inventario_estru.conemysql import buscar_producto_bd
 
 def buscar_producto():
     nombre_buscado = input("Cual es el nombre del producto a buscar: ").lower()
